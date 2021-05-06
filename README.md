@@ -244,7 +244,7 @@ or <a href="https://maven.apache.org/" rel="nofollow">Maven</a></li>
 <p><a href="https://github.com/iluwatar/java-design-patterns">Java-Patterns</a></p>
 </li>
 </ol>
-</a>Wrap Up</h2>
+
 
 </div>
 
